@@ -1,3 +1,4 @@
+pkg install nodejs
 # Contributing to Node.js
 
 Contributions to Node.js include code, documentation, answering user questions,
